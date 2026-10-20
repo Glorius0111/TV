@@ -12925,6 +12925,7 @@
 <programme start="20261022011000 +0000" stop="20261022012500 +0000" channel="tgcom24.it"><title>Tgcom Rassegna Stampa 2026</title><desc>Tgcom Rassegna Stampa...</desc></programme>
 <programme start="20261022012500 +0000" stop="20261022015500 +0000" channel="tgcom24.it"><title>Tgcom24 Diretta Roma 2026</title><desc>Tgcom24 Diretta Roma...</desc></programme>
 <programme start="20261022015500 +0000" stop="20261022023200 +0000" channel="tgcom24.it"><title>Tgcom24 Diretta Roma 2026</title><desc>Tgcom24 Diretta Roma...</desc></programme>
+<<<<<<< Updated upstream
 <channel id="sky.uno.it">
     <display-name lang="it">Sky Uno</display-name>
     <icon src="https://guidatv.sky.it/logo/477skyuno_Light_Fit.png?checksum=cd37fd56-01f7-443e-a62d-ff99bf4c1b1c?tr=n-logo_80" />
@@ -212377,6 +212378,8 @@
     <country lang="it">IT</country>
     <episode-num system="onscreen">E567353164</episode-num>
   </programme>
+=======
+>>>>>>> Stashed changes
 <programme channel="608014d19a26320007c92ab6" start="20261020154200 +0000" stop="20261020161400 +0000">
     <title>FailFactory</title>
     <live />
